@@ -3,6 +3,3 @@ Aula pratica de git
 
 ambiente de demonstração da disciplina
 esta é uma modificação................
-
-###  ALTERAÇÕES JP 
-#### COLAB
